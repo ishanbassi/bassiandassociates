@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plans &#8211; Patent &amp; Trademark Attorneys</title>
+	<atom:link href="https://bassiandassociates.com/product-category/plans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bassiandassociates.com</link>
+	<description>Register your business</description>
+	<lastBuildDate>Tue, 18 Aug 2020 09:39:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://bassiandassociates.com/wp-content/uploads/2020/08/cropped-logo-only-32x32.png</url>
+	<title>Plans &#8211; Patent &amp; Trademark Attorneys</title>
+	<link>https://bassiandassociates.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Enterprise</title>
+		<link>https://bassiandassociates.com/product/enterprise/</link>
+					<comments>https://bassiandassociates.com/product/enterprise/#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2020 17:02:22 +0000</pubDate>
+				<guid isPermaLink="false">https://bassiandassociates.com/?post_type=product&#038;p=80</guid>
+
+					<description><![CDATA[<section class="background-grey pricing_section p-b-40">
+<div class="container">
+<div class="row pricing-table colored">
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="plan">
+<div class="plan-list">
+<p class="p-r-15 p-l-15">Trademark filing under one class for large enterprises not eligible of MSME registration. Inclusive of government fee and taxes.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="">
+<div class="container">
+<div class="section-title"></div>
+</div>
+</section>]]></description>
+										<content:encoded><![CDATA[<section class="background-grey pricing_section p-b-40">
+<div class="container">
+<div class="row pricing-table colored">
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="plan">
+<div class="plan-list">
+<p class="p-r-15 p-l-15">Trademark filing under one class for large enterprises not eligible of MSME registration. Inclusive of government fee and taxes.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="">
+<div class="container">
+<div class="section-title"></div>
+</div>
+</section>]]></content:encoded>
+					
+					<wfw:commentRss>https://bassiandassociates.com/product/enterprise/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Premium</title>
+		<link>https://bassiandassociates.com/product/premium/</link>
+					<comments>https://bassiandassociates.com/product/premium/#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2020 17:01:17 +0000</pubDate>
+				<guid isPermaLink="false">https://bassiandassociates.com/?post_type=product&#038;p=78</guid>
+
+					<description><![CDATA[<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="plan featured">
+<div class="plan-list">
+<p class="p-r-15 p-l-15">Trademark filing under one class for proprietorship and small enterprises. Logo designing by Graphic Designers. Inclusive of government fee and taxes.</p>
+
+</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="plan featured">
+<div class="plan-list">
+<p class="p-r-15 p-l-15">Trademark filing under one class for proprietorship and small enterprises. Logo designing by Graphic Designers. Inclusive of government fee and taxes.</p>
+
+</div>
+</div>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://bassiandassociates.com/product/premium/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Basic</title>
+		<link>https://bassiandassociates.com/product/basic/</link>
+					<comments>https://bassiandassociates.com/product/basic/#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2020 16:59:08 +0000</pubDate>
+				<guid isPermaLink="false">https://bassiandassociates.com/?post_type=product&#038;p=77</guid>
+
+					<description><![CDATA[Trademark filing under one class for proprietorship and small enterprises.
+
+Inclusive of government fee and taxes.]]></description>
+										<content:encoded><![CDATA[Trademark filing under one class for proprietorship and small enterprises.
+
+Inclusive of government fee and taxes.]]></content:encoded>
+					
+					<wfw:commentRss>https://bassiandassociates.com/product/basic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

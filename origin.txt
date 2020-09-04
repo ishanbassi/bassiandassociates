@@ -1,0 +1,1116 @@
+Uri: https://bassiandassociates.com/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/comments/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=2.7.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\vendors-style.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.7.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/css/eh-style.css?ver=3.4.7
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\css\eh-style.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\sticky-header-oceanwp\style.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\third\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\third\slick.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-mini-cart.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woocommerce.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-star-font.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-quick-view.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/libs/framework/assets/css/frontend-style.min.css?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\libs\framework\assets\css\frontend-style.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/modules/controls/assets/css/widgetarea-editor.css?ver=1.0.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\modules\controls\assets\css\widgetarea-editor.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/uploads/elementor/css/global.css?ver=1597947237
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/uploads/elementor/css/post-7.css?ver=1598163784
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/vendors.css?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\vendors.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/style.css?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\style.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/modules/controls/assets/css/ekiticons.css?ver=5.9.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\modules\controls\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-json/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/wp/v2/pages/7
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\wp\v2\pages\7.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2F
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2F&format=xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/cropped-logo-only-32x32.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\cropped-logo-only-32x32.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/cropped-logo-only-192x192.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\cropped-logo-only-192x192.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/cropped-logo-only-180x180.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\cropped-logo-only-180x180.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/cart/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/wp-includes/css/dashicons.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/css/display-opinions-light.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\css\display-opinions-light.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/css/font-awesome.min.css?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=3.20.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/sticky-header-oceanwp//main.js?ver=1.0.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\sticky-header-oceanwp\main.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/cropped-logo-svg.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\cropped-logo-svg.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/logo-svg.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\logo-svg.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/1.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\1.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/2.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\2.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/3.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\3.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-1024x1024.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-1024x1024.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-1024x1024.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-1024x1024.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/6.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\6.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/about-us-resized.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\about-us-resized.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/mail-chimp/assets/js/mail-chimp.js?ver=1.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\mail-chimp\assets\js\mail-chimp.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-scripts.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-quick-view.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/wp-util.min.js?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-mini-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\nav-menu.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/ui-slim.min.js?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\ui-slim.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/wp-embed.min.js?ver=5.5
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/backbone.min.js?ver=1.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\backbone.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js?ver=3.4.25
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\js\min\front-end-deps.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js?ver=3.4.25
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\js\min\front-end.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=3.20.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\lottie.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=3.20.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-addons.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.2.2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/modules/controls/assets/js/widgetarea-editor.js?ver=1.5.9
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\modules\controls\assets\js\widgetarea-editor.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/1-300x300.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\1-300x300.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/1-150x150.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\1-150x150.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/1-100x100.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\1-100x100.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/3-264x300.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\3-264x300.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/3-768x873.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\3-768x873.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/3-600x682.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\3-600x682.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-300x300.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-300x300.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-150x150.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-150x150.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-768x768.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-768x768.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-600x600.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-600x600.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4-100x100.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4-100x100.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/4.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\4.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-300x300.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-300x300.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-150x150.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-150x150.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-768x768.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-768x768.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-600x600.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-600x600.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5-100x100.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5-100x100.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/5.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\5.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/6-240x300.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\6-240x300.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/6-768x960.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\6-768x960.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/6-600x750.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\6-600x750.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/about-us-resized-300x200.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\about-us-resized-300x200.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/uploads/2020/08/about-us-resized-600x400.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\uploads\2020\08\about-us-resized-600x400.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/credit-card.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\credit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/visa.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/mastercard.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/amex.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/discover.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/diners.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/jcb.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\assets\img\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\slick\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/star/star.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\star\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/star/star.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\star\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/star/star.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\star\star.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/star/star.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\star\star.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/fonts/star/star.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\fonts\star\star.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.7.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/elementskit.woff?y24e1e
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/slick.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/slick.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/slick.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/slick.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/fonts/slick.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/modules/controls/assets/fonts/elementskit.woff?y24e1e
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\modules\controls\assets\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\css\dist\block-library\theme.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\sticky-header-oceanwp\style-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-mini-cart.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woocommerce.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-star-font.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-quick-view.min-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ocean-extra\assets\css\widgets-1.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-json/wp/v2/pages/74
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\wp\v2\pages\74.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fcart%2F
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fcart%2F&format=xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/shop/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\shop\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/wp-util.min.js?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\nav-menu-1.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/ui-slim.min.js?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\ui-slim.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/wp-embed.min.js?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\wp-embed.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/img/help-info.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\img\help-info.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?p2y7wv
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?p2y7wv
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?p2y7wv
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.woff
+Content Type: application/font-woff
+
+Uri: https://bassiandassociates.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?p2y7wv
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/shop/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\shop\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/shop/?products-per-page=12
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\shop\index-1.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/shop/?products-per-page=24
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\shop\index-2.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/shop/?products-per-page=all
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\shop\index-3.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/basic/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\basic\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/enterprise/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\enterprise\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/premium/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\premium\index.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/images/placeholder.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/product-category/plans/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/product-category/plans/?products-per-page=12
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-1.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?products-per-page=24
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-2.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?products-per-page=all
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-3.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=77
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-4.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=80
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-5.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=78
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-6.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/basic/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\basic\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/css/woo/woo-floating-bar.min.css?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\css\woo\woo-floating-bar.min.css
+Content Type: text/css
+
+Uri: https://bassiandassociates.com/wp-json/wp/v2/product/77
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\wp\v2\product\77.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fbasic%2F
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fbasic%2F&format=xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/product/basic/?add-to-cart=78
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\basic\index-1.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/basic/?add-to-cart=80
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\basic\index-2.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=4.3.3
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-includes/js/comment-reply.min.js?ver=5.5.1
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-floating-bar.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-floating-bar.min.js
+Content Type: application/x-javascript
+
+Uri: https://bassiandassociates.com/product/enterprise/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\enterprise\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/wp-json/wp/v2/product/80
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\wp\v2\product\80.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fenterprise%2F
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fenterprise%2F&format=xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/product/enterprise/?add-to-cart=78
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\enterprise\index-1.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/enterprise/?add-to-cart=77
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\enterprise\index-2.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/premium/feed/
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\premium\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://bassiandassociates.com/wp-json/wp/v2/product/78
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\wp\v2\product\78.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fpremium%2F
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://bassiandassociates.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbassiandassociates.com%2Fproduct%2Fpremium%2F&format=xml
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://bassiandassociates.com/product/premium/?add-to-cart=80
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\premium\index-1.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product/premium/?add-to-cart=77
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product\premium\index-2.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=77&products-per-page=12
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-7.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=77&products-per-page=24
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-8.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=77&products-per-page=all
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-9.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=80&products-per-page=12
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-10.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=80&products-per-page=24
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-11.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=80&products-per-page=all
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-12.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=78&products-per-page=12
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-13.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=78&products-per-page=24
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-14.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/product-category/plans/?add-to-cart=78&products-per-page=all
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\product-category\plans\index-15.htm
+Content Type: text/html
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://bassiandassociates.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\bassiandassociates.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
